@@ -15,3 +15,9 @@ This project is a Flask-based web application that utilizes the Google Cloud Vis
 - Google Cloud service account JSON key file
 ## Usage 
 python main.py
+pip install Flask
+pip install Flask-CORS
+pip install Werkzeug
+pip install google-cloud-vision
+pip install pdf2image
+pip install PyMuPDF
